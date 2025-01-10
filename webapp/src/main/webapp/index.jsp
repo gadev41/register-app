@@ -1,4 +1,4 @@
-<form action="action_page.php">
+bye<form action="action_page.php">
   <div class="container">
     <h1>New user Register for DevOps Learning at Virtual TechBox Youtube Channel</h1>
     <p>Please fill in this form to create an account.</p>
@@ -33,6 +33,6 @@
 
    <h1> Thank You </h1>
    <br>
-   <h1> Happy Learning!!! </h1>
+   <h1> Happy Learning!!! bye bye</h1>
    
 </form>
